@@ -1,0 +1,95 @@
+Adding a Business
+October 11, 2023 19:19
+Last Updated November 03, 2023 16:35
+Adding a new business to your invoicely account is simple. Navigate to the top-left dropdown menu and select "Exit Business"
+
+
+
+You will then be taken to a page where all of your currently active invoicely businesses are listed. Below this list click on "Add Business"
+
+
+
+Finally, enter your business name and Vanity URL. Can't remember what either of these are? Here's a quick reminder:
+
+Business Name: This is the name you would like your business to be referred to throughout your invoicely control panel. If you're an individual and would like to use your full name instead, simply check the "I'm an individual" checkbox below.
+
+Vanity URL: Your Vanity URL is the URL your invoicely account will be hosted at. In other words, this is the URL that will be used to make your invoices available to your clients. Example: If your business name is "John's Plumbing", you may want to enter "johnsplumbing" for your Vanity URL (resulting in johnsplumbing.invoicely.com)
+
+link for guide https://help.invoicely.com/hc/en-us/articles/14352101161234-Adding-a-Business
+
+October 11, 2023 19:19
+Last Updated November 03, 2023 16:31
+In this article, we'll let you know the basic steps you can follow in order to adjust invoicely based on the specifics of your business. We'll be outlining each setting contained in the "Business Settings" page in the correct order.
+
+Edit business information:
+
+By navigating to Business Settings > Edit Business Information you'll be able to edit the business details that will be displayed on invoices. This includes the type of your business (organization or individual), your business name and address, business phone number, Tax Identification Number, custom invoice fields, notes and more.
+
+General Preferences:
+
+By navigating to Business Settings > General Preferences you'll be able to adjust a series of settings and customizations for your business:
+
+Default Language:	The default language used for your invoices and estimates.
+Primary Currency:	The primary currency used for your invoices, estimates, bills, reports and dashboard statistics.
+Units & Formats:	Adjust number, date and time formats, currency format and position and mileage unit.
+Miscellaneous:	Specify when your financial (fiscal) year begins and choose a custom receipt number prefix.
+Statement List Options:	Choose the default filter tab for your Invoices, Bills and Estimates pages.
+Custom Domain:	Set up a custom domain to host your invoicely account at. 
+invoicely Branding:	Disable the "Powered by invoicely" badge shown at the bottom right of your invoices. 
+ 
+
+Statement Preferences:
+
+In Business Settings > Statement Preferences you can manage a host of settings related to invoices, bills, estimates and account statements, such as default due & expiration dates, address format, default payment reminders, and more.
+
+Payment Integrations:
+
+In Business Settings> Payment Integrations you'll be able to enable and disable the payment gateways through which you would like to receive payments for your invoices. If you are currently using the Free Plan, you will only see PayPal as an option. On premium subscription plans, you will be able to choose from many more advanced gateways, including Stripe, Authorize.net, PayLane, Mollie and WePay.
+
+Team:
+
+In Business Settings > Team you can add, edit and remove team members. If your subscription plan supports multiple team members, you'll be able to invite coworkers to your invoicely account, assign them a role and give them specific portal permissions.
+
+Taxes, Discounts, Shipping:
+
+In Business Settings > Taxes, Discounts, Shipping you can add, edit and remove saved tax, discount and shipping templates, as well set them as default by checking the "Set Default?" checkbox. Specifying a default tax, discount or shipping entry will cause invoicely to add the respective entry to new invoices automatically.
+
+Saved Items:
+
+Navigate to Business Settings > Saved Items to go through, add, edit and remove saved items, expenses, tasks, trips or tags. These are the items that can be added to statements (invoices, bills, estimates) using the autocomplete dropdown menu in the line item name field.
+
+Business Customizations:
+
+Logos & Icons:Upload an icon and logo in order to customize your invoicely control panel and notification emails based on your brand, and upload a separate statement logo to display on invoices, estimates, bills and receipts.Colors:Specify a series of HEX color codes in order to adjust your control panel's branding to the colors specific to your business.Languages:
+On this page you'll be able to specify the language used throughout your invoicely control panel and on your statements. Each language is split into individual words and phrases that can be adjusted based on your preferences.
+
+Notes & Emails:On this page you'll be able to configure and edit the contents of your statement default footer, statement default notes, as well as notification emails, automatic payment reminders, and more.
+Manage Files:
+
+In Business Settings > Manage Files you'll be able to see a list of all files that have been uploaded as part of your usage of invoicely. This includes files uploaded in line items and your control panel and statement logos & icons. On this page you can also add and delete files from your invoicely account.
+
+Trash:
+
+Deleted invoices, estimates, bills, files and clients end up in Business Settings > Trash and can be deleted permanently or recovered into your account.
+
+Editing Business Details
+October 11, 2023 19:19
+Last Updated November 03, 2023 16:32
+To make changes to how your business information appears on invoices, estimates and bills, please navigate to Business Settings > Edit Business Information:
+
+
+
+On the following page, you'll be able to edit the business details, such as the type of your business (organization or individual), your business name and address, business phone number, Tax Identification Number, custom invoice fields, notes and more:
+
+
+
+Custom fields are used to display customized information about your business on invoices, estimates and bills. A custom field pair always consists of a key (e.g. "Company Register Number") and a value (e.g. "12345"). Custom field pairs will be displayed on statements below your company address.
+
+Deleting a Business
+October 11, 2023 19:20
+Last Updated November 03, 2023 16:24
+To delete the business you are currently signed in to, navigate to Business Settings, click the "Delete Business" button at the top right of the first box and confirm your deletion.
+
+⚠️ Important: 
+Deleting a business will delete all invoices, clients and other data tied to it. This action may not be reversible.
+
