@@ -15,7 +15,7 @@ Business Name: This is the name you would like your business to be referred to t
 
 Vanity URL: Your Vanity URL is the URL your invoicely account will be hosted at. In other words, this is the URL that will be used to make your invoices available to your clients. Example: If your business name is "John's Plumbing", you may want to enter "johnsplumbing" for your Vanity URL (resulting in johnsplumbing.invoicely.com)
 
-link for guide https://help.invoicely.com/hc/en-us/articles/14352101161234-Adding-a-Business
+link for adding a business: https://help.invoicely.com/hc/en-us/articles/14352101161234-Adding-a-Business
 
 October 11, 2023 19:19
 Last Updated November 03, 2023 16:31
